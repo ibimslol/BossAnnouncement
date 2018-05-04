@@ -1,0 +1,7 @@
+  name: BossAnnouncement
+  main: xenialdan\BossAnnouncement\Main
+  version: 1.0.2
+  api: [3.0.0-ALPHA12]
+  load: POSTWORLD
+  authors: [XenialDan]
+  depend: BossBarAPI
