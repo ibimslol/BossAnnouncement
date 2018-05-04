@@ -25,7 +25,7 @@ changing-messages:
  - "{0%}{BOLD}{AQUA}Twitter{RESET}: VaronPE_v2"
  - "{25%}{BOLD}{BLACK}CityBuildV2 Release am 30.5.18{RESET}"
  - "{50%}{BOLD}{BLUE}CityBuild Release {RESET}"
- - "{75%}{BOLD}Discord: https://discprd.gg/N9JEsAE{RESET}"
+ - "{75%}{BOLD}Discord: https://discord.gg/N9JEsAE{RESET}"
  - "{100%}{BOLD}Wor sind derzeit in Beta Version!{RESET}"
 # How fast the messages switch in seconds
 change-speed: 5
