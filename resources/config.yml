@@ -1,0 +1,32 @@
+---
+# Example Look #
+# First 3 seconds: #
+#
+#Willkommen auf dem VaronPE Netzwerk {player}!
+# ================----------------------------------
+#        Wir sind derzeit in Beta!
+#
+# Next 3 seconds: #
+#
+# Willkommen auf dem VaronPE Netzwerk {player}!
+# =================================-----------------
+#      Besuche unsere Webseite:n
+#
+#
+#
+#         Hoffe dir gef�llt unser Netzwerk! :P
+# ==================================================
+head-message: "Wir benutzen BossAnnouncement von PrinxIsLeqit!"
+# Changing messages are here
+# To set the percentage of the bar add {number%} before the message!
+# Otherwise it takes the percentage that was there before.
+# Example for a 25% filled: "{25%}This is a quarter filled bar >>"
+changing-messages:
+ - "{0%}{BOLD}{AQUA}Twitter{RESET}: VaronPE_v2"
+ - "{25%}{BOLD}{BLACK}CityBuildV2 Release am 30.5.18{RESET}"
+ - "{50%}{BOLD}{BLUE}CityBuild Release {RESET}"
+ - "{75%}{BOLD}Discord: https://discprd.gg/N9JEsAE{RESET}"
+ - "{100%}{BOLD}Wor sind derzeit in Beta Version!{RESET}"
+# How fast the messages switch in seconds
+change-speed: 5
+...
